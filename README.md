@@ -46,7 +46,7 @@ Below is an example of the indicator in action:
 
 ## 📦 Installation Guide
 
-1. Download the `.ex5` file from the [Releases](./releases) section or clone the repository.
+1. Download the `.ex5` file from the [Releases](https://github.com/Thirtynader/Thirtynader-TimeSpreadPipvalueSession/releases/) section or clone the repository.
 2. Copy the file to your **MetaTrader 5** `Indicators` directory:  
    `MQL5/Indicators/`
 3. Restart MetaTrader 5.
