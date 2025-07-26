@@ -1,7 +1,7 @@
 # 🧭 Thirtynader - TimeSpreadPipvalueSession (4-in-1 Indicator for MetaTrader 5)
 
 A powerful, minimalist, and efficient **4-in-1 custom indicator** designed for professional traders using **MetaTrader 5 (MT5)**.  
-The `TimeSpreadPipvalueSession` tool consolidates four essential trading insights into a compact on-screen display—so you can focus on what matters: the market.
+The `TimeSpreadPipvalueSession` tool consolidates four essential trading insights into a compact on-screen display so you can focus on what matters: the market.
 
 ![Cover Image](4in1Cover.png)
 
@@ -9,10 +9,10 @@ The `TimeSpreadPipvalueSession` tool consolidates four essential trading insight
 
 ## 🚀 Features
 
-✅ **Pip Value** – Instantly see the current pip value for your active symbol.  
-✅ **Spread Monitor** – Real-time spread display in pips.  
-✅ **Session Identifier** – Automatically detects and displays the active trading session (Asian, European, US).  
-✅ **Server Time** – Keeps you synced with broker time, visible directly on the chart.  
+✅ **Pip Value** - Instantly see the current pip value for your active symbol.  
+✅ **Spread Monitor** - Real-time spread display in pips.  
+✅ **Session Identifier** - Automatically detects and displays the active trading session (Asian, European, US).  
+✅ **Server Time** - Keeps you synced with broker time, visible directly on the chart.  
 
 All elements are highly customizable, from font type and size to layout and visibility.
 
